@@ -10,3 +10,8 @@ body {
 .logo {
 	width: 30%;
 }
+
+footer > div {
+	position: absolute;
+	bottom: 0;
+}
